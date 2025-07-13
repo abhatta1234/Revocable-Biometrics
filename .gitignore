@@ -1,0 +1,12 @@
+# Exclude specific folders
+results/
+match/
+feature/
+configs/
+
+# Exclude job files
+*.job
+
+# Exclude numpy files
+*.npy
+**/*.npy
